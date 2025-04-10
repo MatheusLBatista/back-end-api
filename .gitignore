@@ -31,16 +31,16 @@ __pycache__/
 *.sublime-workspace
 *.sublime-project
 
-# Arquivos de ambiente
-.env
-.env.local
-.env.*.local
+# # Arquivos de ambiente
+# .env
+# .env.local
+# .env.*.local
 
-# SQLite ou outros bancos locais
-*.sqlite
-*.db
-*.sqlite3
+# # SQLite ou outros bancos locais
+# *.sqlite
+# *.db
+# *.sqlite3
 
-# MacOS / Linux
-*.swp
-*.lock
+# # MacOS / Linux
+# *.swp
+# *.lock
